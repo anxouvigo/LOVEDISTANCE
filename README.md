@@ -1,12 +1,10 @@
-# LOVEDISTANCE
-
 <img src="https://www.eusa.eu/documents/eusa/News/2017/erasmuspluscall-funding.jpg" width="400"><img src="https://github.com/anxouvigo/CRECE/blob/main/images/LogoCrece.png" height="82">
   
-# CBHE-CRECE Training - UVIGO
+# LOVEDISTANCE Training - UVIGO
 
-## About Project CRECE
+## About Project LOVEDISTANCE
 
-This site contains the training material made bu the [**University of Vigo Team**](http://international-projects.uvigo.es/crece/) related to the Capacity Building for Higher Education, Erasmus+ European Union Program
+This site contains the training material made bu the [**University of Vigo Team**](http://international-projects.uvigo.es/lovedistance/) related to the Capacity Building for Higher Education, Erasmus+ European Union Program
 
 ## Project Data
 
